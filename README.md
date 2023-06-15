@@ -1,4 +1,4 @@
-# Image-Acquisition-from-Web-Camera
+# EX-2-- Image-Acquisition-from-Web-Camera
 ## Aim
  
 Aim:
