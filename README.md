@@ -29,9 +29,6 @@ Use imshow to show the video.
 End the program and close the output video windows by pressing 'q'.
 ## Program:
 ``` Python
-### Developed By: Surendar S
-### Register No:212220230051
-
 ## i) Write the frame as JPG file
 import cv2
 videoCaptureObject = cv2.VideoCapture(0)
